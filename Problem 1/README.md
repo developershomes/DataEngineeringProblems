@@ -4,6 +4,7 @@ We have a table with employees and their salaries, however, some of the records 
 
 Data Structure
 
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/118063572/216591985-5606aad1-c3ff-49e5-a242-1fd45c13b880.png">
 
 
 Data for this problem 
