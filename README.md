@@ -9,6 +9,7 @@ Here, we are solving all the Data Engineering problems using below methods
 
 Please find list of all the problems 
 
+0. Problem0 -> [Get Employee with salary more than 100K](Problem%200/README.md)
 1. Problem1 -> [Get Max Salary for each Employee](Problem%201/README.md)
 
 
