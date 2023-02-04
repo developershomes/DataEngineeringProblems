@@ -1,6 +1,8 @@
 # Data Engineering Problems
 Data Engineering Problems with Solution
 
+<img width="1096" alt="image" src="https://user-images.githubusercontent.com/118063572/216761681-71ade161-a7a5-42c7-9c61-037a0d65c247.png">
+
 Here, we are solving all the Data Engineering problems using below methods
 1. Solving problem using PySpark
     1. Using PySpark Functions 
