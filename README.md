@@ -13,6 +13,7 @@ Please find list of all the problems
 
 0. Problem0 -> [Get Employee with salary more than 100K](Problem%200/README.md)
 1. Problem1 -> [Get Max Salary for each Employee](Problem%201/README.md)
+2. Problem2 -> [Get Salary of all employees in Marketing department](Problem%202/README.md)
 
 
 Also find below blog for understanding all the data engineering problems 
