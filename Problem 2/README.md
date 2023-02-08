@@ -11,9 +11,11 @@ Data Structure
 
 Employee table 
 
+<img width="193" alt="image" src="https://user-images.githubusercontent.com/118063572/217520001-a30f7e6d-5ef7-4abe-af58-c0642c6db10f.png">
 
 Department table
 
+<img width="197" alt="image" src="https://user-images.githubusercontent.com/118063572/217520075-d677a275-1cd4-4829-96c9-154ec837eadb.png">
 
 Data for employee salary table 
 
