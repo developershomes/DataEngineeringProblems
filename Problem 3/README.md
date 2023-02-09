@@ -13,6 +13,8 @@ Data Structure
 - Longitude
 - Lattitude
 
+<img width="201" alt="image" src="https://user-images.githubusercontent.com/118063572/217790651-9e7a7810-b68f-4911-9f5e-8098ea4fc3c1.png">
+
 Data for station table 
 
 [In CSV Format](stations.csv)
