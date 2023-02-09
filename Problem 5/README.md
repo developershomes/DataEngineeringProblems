@@ -1,6 +1,6 @@
-# Problems 3 -> Difference between total number of cities and distinct cities
+# Problems 5 -> CITY names starting with vowels
 
-Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates.
 The STATION table is described as follows:
 
 Problem Difficulty Level : Easy
@@ -27,7 +27,7 @@ In Spark we will solve this problem using two ways
 
 Use below notebook for solution 
 
-[Problem Solution First Part](problem3.ipynb) 
+[Problem Solution First Part](problem5.ipynb) 
 
 ## Solving using PostgreSQL
 
@@ -35,6 +35,6 @@ In Postgre SQL We will load data from CSV using PostgreSQL Import functionality.
 
 Output Query
 
-[Problem Solution](problem3.sql)
+[Problem Solution](problem5.sql)
 
 Please also follow below blog for understanding this problem

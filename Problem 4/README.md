@@ -1,9 +1,9 @@
-# Problems 3 -> Difference between total number of cities and distinct cities
+# Problems 4 -> Get Shortest and Longest City Name
 
-Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths (i.e.: number of characters in the name). If there is more than one smallest or largest city, choose the one that comes first when ordered alphabetically.
 The STATION table is described as follows:
 
-Problem Difficulty Level : Easy
+Problem Difficulty Level : Hard
 
 Data Structure
 
@@ -19,6 +19,17 @@ Data for station table
 
 [In CSV Format](stations.csv)
 
+Sample Input
+
+For example, CITY has four entries: DEF, ABC, PQRS and WXY.
+
+Sample Output
+
+``````````
+ABC 3
+PQRS 4
+``````````
+
 ## Solving using PySpark
 
 In Spark we will solve this problem using two ways 
@@ -27,7 +38,7 @@ In Spark we will solve this problem using two ways
 
 Use below notebook for solution 
 
-[Problem Solution First Part](problem3.ipynb) 
+[Problem Solution First Part](problem4.ipynb) 
 
 ## Solving using PostgreSQL
 
@@ -35,6 +46,6 @@ In Postgre SQL We will load data from CSV using PostgreSQL Import functionality.
 
 Output Query
 
-[Problem Solution](problem3.sql)
+[Problem Solution](problem4.sql)
 
 Please also follow below blog for understanding this problem

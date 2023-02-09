@@ -15,6 +15,8 @@ Please find list of all the problems
 1. Problem1 -> [Get Max Salary for each Employee](Problem%201/README.md)
 2. Problem2 -> [Get Salary of all employees in Marketing department](Problem%202/README.md)
 3. Problem3 -> [Find diff between count of cities  and distict count of cities](Problem%203/README.md)
+4. Problem4 -> [Get Shortest and Longest City Name](Problem%204/README.md)
+5. Problem5 -> [CITY names starting with vowels](Problem%205/README.md)
 
 
 Also find below blog for understanding all the data engineering problems 
