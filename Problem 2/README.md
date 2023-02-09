@@ -33,7 +33,7 @@ In Spark we will solve this problem using two ways
 
 Use below notebook for solution 
 
-[Problem Solution First Part](problem2_1.ipynb)
+[Problem Solution First Part](problem2_1.ipynb) <br/>
 [Problem Solution Second Part](problem2_2.ipynb)
 
 ## Solving using PostgreSQL
