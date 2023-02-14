@@ -17,6 +17,7 @@ Please find list of all the problems
 3. Problem3 -> [Find diff between count of cities  and distict count of cities](Problem%203/README.md)
 4. Problem4 -> [Get Shortest and Longest City Name](Problem%204/README.md)
 5. Problem5 -> [CITY names starting with vowels](Problem%205/README.md)
+6. Problem6 -> [Students more than 75 Marks ](Problem%206/README.md)
 
 
 Also find below blog for understanding all the data engineering problems 
