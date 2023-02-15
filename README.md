@@ -18,6 +18,8 @@ Please find list of all the problems
 4. Problem4 -> [Get Shortest and Longest City Name](Problem%204/README.md)
 5. Problem5 -> [CITY names starting with vowels](Problem%205/README.md)
 6. Problem6 -> [Students more than 75 Marks ](Problem%206/README.md)
+7. Problem7 -> [Returning active users](Problem%207/README.md)
+8. Problem8 -> [Top distance travelled](Problem%208/README.md)
 
 
 Also find below blog for understanding all the data engineering problems 
