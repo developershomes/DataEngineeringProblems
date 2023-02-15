@@ -1,6 +1,6 @@
 # Problems 6 -> Students more than 75 Marks 
 
-Query the Name of any student in STUDENTS who scored higher than  Marks. Order your output by the last three characters of each name. If two or more students both have names ending in the same last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID.
+Query the Name of any student in STUDENTS who scored higher than 75 Marks. Order your output by the last three characters of each name. If two or more students both have names ending in the same last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID.
 
 Problem Difficulty Level : Medium
 
@@ -12,7 +12,7 @@ Data Structure
 
 <img width="192" alt="image" src="https://user-images.githubusercontent.com/118063572/218769628-a8439df0-8f84-44fd-b799-88d184fc657f.png">
 
-Data for station table 
+Data for students table 
 
 [In CSV Format](Students.csv)
 
