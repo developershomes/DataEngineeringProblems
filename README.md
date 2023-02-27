@@ -20,6 +20,7 @@ Please find list of all the problems
 6. Problem6 -> [Students more than 75 Marks ](Problem%206/README.md)
 7. Problem7 -> [Returning active users](Problem%207/README.md)
 8. Problem8 -> [Top distance travelled](Problem%208/README.md)
+9. Problems 9 -> [Premium vs Freemium](Problem%209/README.md)
 
 
 Also find below blog for understanding all the data engineering problems 
